@@ -11,7 +11,12 @@ Welcome to my GitHub repository! I am Sushmitha R, a passionate data enthusiast 
 ![](https://github-readme-stats.vercel.app/api?username=Sushmi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sushmi-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Certifications
 
+- **Google Data Analytics Professional Certificate** - [Issued Feb 2022](https://www.credly.com/badges/f0a8e14e-3b8e-4b25-a147-a93bcec1c12e/print)
+- **Microsoft Excel Specialist** - [Issued Aug 2022](https://www.credly.com/badges/41b01c5d-f7c8-46b1-b4cb-b5009f4e9fcb)
+- **Post Graduate Certification in Data Science** - [Apr 2023 - Jan 2024]
+- **Machine Learning A-Z (Python)** - [Issued May 2024](https://www.udemy.com/certificate/UC-ffe50153-0f28-45ac-a6dd-b58118ecf8b9/)
 ---
 [![](https://visitcount.itsvg.in/api?id=Sushmi-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
