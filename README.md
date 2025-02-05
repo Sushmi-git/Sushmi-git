@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub repository! I am Sushmitha R, a passionate data enthusiast currently pursuing my MSc in Data Analytics. Here you will find a collection of my projects showcasing my skills and experience in data analysis, machine learning, and data visualization
+Welcome to my GitHub! I am Sushmitha, Data science student from India!
 
 
 ## 🌐 Socials:
