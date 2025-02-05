@@ -2,7 +2,7 @@
 Welcome to my GitHub! I am Sushmitha, Data science intern from India!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sushmi_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sushmi186) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Welcome to my GitHub! I am Sushmitha, Data science intern from India!
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8B0000?style=for-the-badge&logo=python&logoColor=white)
 
-### 📚 **My Articles:**
+# 📚 **My Articles:**
 
 - [![Emerging Trends in Activation Functions](https://img.shields.io/badge/Emerging%20Trends%20in%20Activation%20Functions-FF6F00?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/accredian/emerging-trends-and-innovations-in-activation-functions-46d757fda1f4)
 - [![Addressing Class Imbalance in ML](https://img.shields.io/badge/Addressing%20Class%20Imbalance%20in%20ML-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/accredian/addressing-class-imbalance-in-machine-learning-effective-strategies-for-optimizing-models-4e0cfeb78a84)
@@ -23,7 +23,7 @@ Welcome to my GitHub! I am Sushmitha, Data science intern from India!
 ![](https://github-readme-stats.vercel.app/api?username=Sushmi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sushmi-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## Certifications
+# Certifications
 
 - **Google Data Analytics Professional Certificate** - [Issued Feb 2022](https://www.credly.com/badges/f0a8e14e-3b8e-4b25-a147-a93bcec1c12e/print)
 - **Microsoft Excel Specialist** - [Issued Aug 2022](https://www.credly.com/badges/41b01c5d-f7c8-46b1-b4cb-b5009f4e9fcb)
