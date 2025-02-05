@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub! I am Sushmitha, Data science student from India!
+Welcome to my GitHub! I am Sushmitha, Data science intern from India!
 
 
 ## 🌐 Socials:
@@ -11,6 +11,10 @@ Welcome to my GitHub! I am Sushmitha, Data science student from India!
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8B0000?style=for-the-badge&logo=python&logoColor=white)
+
+# My articles:
+[![My Articles](https://img.shields.io/badge/My%20Articles-0000FF?style=for-the-badge&logo=readme&logoColor=white)]([(https://medium.com/accredian/emerging-trends-and-innovations-in-activation-functions-46d757fda1f4)])
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sushmi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
