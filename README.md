@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub! I am Sushmitha, Data science intern from India!
+Welcome to my GitHub! I am Sushmitha, Data science researcher from India!
 
 
 # 🌐 Socials:
