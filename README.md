@@ -1,7 +1,7 @@
 # Hi, I'm Sushmitha 👋
 
 I build end-to-end AI systems — RAG pipelines, ML models, and automation 
-workflows. Currently at Accredian working on AI product development.
+workflows.
 
 - 🔧 I like turning messy manual workflows into something clean and automated
 - 🤖 Working with Python, LLMs, RAG, GCP, ML, Agentic & Automation: Make.com, N8N etc..
