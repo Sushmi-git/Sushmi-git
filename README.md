@@ -4,7 +4,7 @@ I build end-to-end AI systems — RAG pipelines, ML models, and automation
 workflows. Currently at Accredian working on AI product development.
 
 - 🔧 I like turning messy manual workflows into something clean and automated
-- 🤖 Working with Python, LLMs, RAG, GCP, Power BI, Make.com, N8n
+- 🤖 Working with Python, LLMs, RAG, GCP, ML, Agentic & Automation: Make.com, N8N etc..
 - ✍️ I write about ML on [Medium](https://medium.com/@sushmijee)
 - 💼 Connect on [LinkedIn](https://linkedin.com/in/sushmi186)
 - 📫 Reach me at sushmijee@gmail.com
