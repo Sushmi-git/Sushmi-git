@@ -65,4 +65,4 @@ accuracy, Apriori-based cross-sell insights, segmentation dashboards.
 
 ---
 
-*Always curious about where AI can genuinely make something easier — not just where it looks good on paper.*
+*I enjoy the process of turning messy manual workflows into something clean and reliable through automation*
