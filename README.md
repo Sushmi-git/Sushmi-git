@@ -12,7 +12,6 @@ workflows. Currently at Accredian working on AI product development.
 ---
 
 ## 🛠 Tech Stack
-## 🛠 Tech Stack
 
 **Languages & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
